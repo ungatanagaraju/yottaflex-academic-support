@@ -4,7 +4,7 @@
 
 The Academic Support Request & Policy Management System is a Python-based data generation and management project designed to simulate academic support operations.
 
-It generates synthetic academic support tickets, requesters, assignments, messages, service-level agreement (SLA) records, policy documents, and knowledge articles.
+It generates synthetic academic support tickets, requesters, assignments, messages, Service-Level Agreement (SLA) records, policy documents, and knowledge articles.
 
 SQLite is used for relational data storage, while Python libraries support synthetic data generation, validation, testing, and data exports.
 
@@ -77,8 +77,8 @@ yottaflex_academic_support/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd yottaflex_academic_support
+git clone https://github.com/ungatanagaraju/yottaflex-academic-support.git
+cd yottaflex-academic-support
 ```
 
 Create a virtual environment:
@@ -131,6 +131,12 @@ Run automated tests:
 python -m pytest -v
 ```
 
+Run the project entry point, if supported by the implementation:
+
+```bash
+python main.py
+```
+
 ## 8. Validation and Testing
 
 The project includes automated validation for:
@@ -146,6 +152,8 @@ The project includes automated validation for:
 
 Latest recorded test result: **9 tests passed**.
 
+This result should be confirmed by running the test suite before submission.
+
 ## 9. Output Files
 
 The project produces:
@@ -153,6 +161,8 @@ The project produces:
 - SQLite relational database.
 - CSV files for generated entities.
 - JSON files for generated entities.
+
+Generated exports are available in the `outputs/` directory.
 
 ## 10. Assumptions and Limitations
 
@@ -177,6 +187,12 @@ This project uses synthetic demonstration data. The policy documents, knowledge 
 
 ## 13. Author
 
+**Nagaraju**
+
 Python Full Stack Developer | Fresher
 
-GitHub: YOUR_GITHUB_PROFILE_URL
+GitHub: https://github.com/ungatanagaraju
+
+Project Repository:
+
+https://github.com/ungatanagaraju/yottaflex-academic-support

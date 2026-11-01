@@ -1,0 +1,7 @@
+category_id,category_name,description,assigned_team
+1,Admissions,Admission-related questions,Admissions Team
+2,Financial Aid,Scholarship and fee questions,Finance Team
+3,Registration,Course registration issues,Academic Team
+4,Technical Support,Technical problems,IT Team
+5,Examinations,Exam-related questions,Exam Team
+6,Academic Records,Academic records requests,Records Team

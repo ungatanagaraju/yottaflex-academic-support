@@ -1,0 +1,1802 @@
+[
+    {
+        "article_id":1,
+        "policy_id":1,
+        "article_code":"KB-0001",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038227"
+    },
+    {
+        "article_id":2,
+        "policy_id":2,
+        "article_code":"KB-0002",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038570"
+    },
+    {
+        "article_id":3,
+        "policy_id":3,
+        "article_code":"KB-0003",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038614"
+    },
+    {
+        "article_id":4,
+        "policy_id":4,
+        "article_code":"KB-0004",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038639"
+    },
+    {
+        "article_id":5,
+        "policy_id":5,
+        "article_code":"KB-0005",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038658"
+    },
+    {
+        "article_id":6,
+        "policy_id":6,
+        "article_code":"KB-0006",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038674"
+    },
+    {
+        "article_id":7,
+        "policy_id":7,
+        "article_code":"KB-0007",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038690"
+    },
+    {
+        "article_id":8,
+        "policy_id":8,
+        "article_code":"KB-0008",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038708"
+    },
+    {
+        "article_id":9,
+        "policy_id":9,
+        "article_code":"KB-0009",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038724"
+    },
+    {
+        "article_id":10,
+        "policy_id":10,
+        "article_code":"KB-0010",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038740"
+    },
+    {
+        "article_id":11,
+        "policy_id":11,
+        "article_code":"KB-0011",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038764"
+    },
+    {
+        "article_id":12,
+        "policy_id":12,
+        "article_code":"KB-0012",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038781"
+    },
+    {
+        "article_id":13,
+        "policy_id":13,
+        "article_code":"KB-0013",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038796"
+    },
+    {
+        "article_id":14,
+        "policy_id":14,
+        "article_code":"KB-0014",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038811"
+    },
+    {
+        "article_id":15,
+        "policy_id":15,
+        "article_code":"KB-0015",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038827"
+    },
+    {
+        "article_id":16,
+        "policy_id":16,
+        "article_code":"KB-0016",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038843"
+    },
+    {
+        "article_id":17,
+        "policy_id":17,
+        "article_code":"KB-0017",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038858"
+    },
+    {
+        "article_id":18,
+        "policy_id":18,
+        "article_code":"KB-0018",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038874"
+    },
+    {
+        "article_id":19,
+        "policy_id":19,
+        "article_code":"KB-0019",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038893"
+    },
+    {
+        "article_id":20,
+        "policy_id":20,
+        "article_code":"KB-0020",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038913"
+    },
+    {
+        "article_id":21,
+        "policy_id":21,
+        "article_code":"KB-0021",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038928"
+    },
+    {
+        "article_id":22,
+        "policy_id":22,
+        "article_code":"KB-0022",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038944"
+    },
+    {
+        "article_id":23,
+        "policy_id":23,
+        "article_code":"KB-0023",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038958"
+    },
+    {
+        "article_id":24,
+        "policy_id":24,
+        "article_code":"KB-0024",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038974"
+    },
+    {
+        "article_id":25,
+        "policy_id":25,
+        "article_code":"KB-0025",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.038988"
+    },
+    {
+        "article_id":26,
+        "policy_id":26,
+        "article_code":"KB-0026",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039003"
+    },
+    {
+        "article_id":27,
+        "policy_id":27,
+        "article_code":"KB-0027",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039019"
+    },
+    {
+        "article_id":28,
+        "policy_id":28,
+        "article_code":"KB-0028",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039036"
+    },
+    {
+        "article_id":29,
+        "policy_id":29,
+        "article_code":"KB-0029",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039056"
+    },
+    {
+        "article_id":30,
+        "policy_id":30,
+        "article_code":"KB-0030",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039074"
+    },
+    {
+        "article_id":31,
+        "policy_id":31,
+        "article_code":"KB-0031",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039088"
+    },
+    {
+        "article_id":32,
+        "policy_id":32,
+        "article_code":"KB-0032",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039104"
+    },
+    {
+        "article_id":33,
+        "policy_id":33,
+        "article_code":"KB-0033",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039118"
+    },
+    {
+        "article_id":34,
+        "policy_id":34,
+        "article_code":"KB-0034",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039134"
+    },
+    {
+        "article_id":35,
+        "policy_id":35,
+        "article_code":"KB-0035",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039149"
+    },
+    {
+        "article_id":36,
+        "policy_id":36,
+        "article_code":"KB-0036",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039165"
+    },
+    {
+        "article_id":37,
+        "policy_id":37,
+        "article_code":"KB-0037",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039179"
+    },
+    {
+        "article_id":38,
+        "policy_id":38,
+        "article_code":"KB-0038",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039195"
+    },
+    {
+        "article_id":39,
+        "policy_id":39,
+        "article_code":"KB-0039",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039210"
+    },
+    {
+        "article_id":40,
+        "policy_id":40,
+        "article_code":"KB-0040",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039226"
+    },
+    {
+        "article_id":41,
+        "policy_id":41,
+        "article_code":"KB-0041",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039241"
+    },
+    {
+        "article_id":42,
+        "policy_id":42,
+        "article_code":"KB-0042",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039255"
+    },
+    {
+        "article_id":43,
+        "policy_id":43,
+        "article_code":"KB-0043",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039269"
+    },
+    {
+        "article_id":44,
+        "policy_id":44,
+        "article_code":"KB-0044",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039284"
+    },
+    {
+        "article_id":45,
+        "policy_id":45,
+        "article_code":"KB-0045",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039299"
+    },
+    {
+        "article_id":46,
+        "policy_id":46,
+        "article_code":"KB-0046",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039314"
+    },
+    {
+        "article_id":47,
+        "policy_id":47,
+        "article_code":"KB-0047",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039333"
+    },
+    {
+        "article_id":48,
+        "policy_id":48,
+        "article_code":"KB-0048",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039350"
+    },
+    {
+        "article_id":49,
+        "policy_id":49,
+        "article_code":"KB-0049",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039367"
+    },
+    {
+        "article_id":50,
+        "policy_id":50,
+        "article_code":"KB-0050",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039383"
+    },
+    {
+        "article_id":51,
+        "policy_id":51,
+        "article_code":"KB-0051",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039398"
+    },
+    {
+        "article_id":52,
+        "policy_id":52,
+        "article_code":"KB-0052",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039415"
+    },
+    {
+        "article_id":53,
+        "policy_id":53,
+        "article_code":"KB-0053",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039431"
+    },
+    {
+        "article_id":54,
+        "policy_id":54,
+        "article_code":"KB-0054",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039447"
+    },
+    {
+        "article_id":55,
+        "policy_id":55,
+        "article_code":"KB-0055",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039463"
+    },
+    {
+        "article_id":56,
+        "policy_id":56,
+        "article_code":"KB-0056",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039480"
+    },
+    {
+        "article_id":57,
+        "policy_id":57,
+        "article_code":"KB-0057",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039496"
+    },
+    {
+        "article_id":58,
+        "policy_id":58,
+        "article_code":"KB-0058",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039513"
+    },
+    {
+        "article_id":59,
+        "policy_id":59,
+        "article_code":"KB-0059",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039529"
+    },
+    {
+        "article_id":60,
+        "policy_id":60,
+        "article_code":"KB-0060",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039545"
+    },
+    {
+        "article_id":61,
+        "policy_id":61,
+        "article_code":"KB-0061",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039568"
+    },
+    {
+        "article_id":62,
+        "policy_id":62,
+        "article_code":"KB-0062",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039584"
+    },
+    {
+        "article_id":63,
+        "policy_id":63,
+        "article_code":"KB-0063",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039601"
+    },
+    {
+        "article_id":64,
+        "policy_id":64,
+        "article_code":"KB-0064",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039617"
+    },
+    {
+        "article_id":65,
+        "policy_id":65,
+        "article_code":"KB-0065",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039643"
+    },
+    {
+        "article_id":66,
+        "policy_id":66,
+        "article_code":"KB-0066",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039660"
+    },
+    {
+        "article_id":67,
+        "policy_id":67,
+        "article_code":"KB-0067",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039676"
+    },
+    {
+        "article_id":68,
+        "policy_id":68,
+        "article_code":"KB-0068",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039691"
+    },
+    {
+        "article_id":69,
+        "policy_id":69,
+        "article_code":"KB-0069",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039706"
+    },
+    {
+        "article_id":70,
+        "policy_id":70,
+        "article_code":"KB-0070",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039721"
+    },
+    {
+        "article_id":71,
+        "policy_id":71,
+        "article_code":"KB-0071",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039737"
+    },
+    {
+        "article_id":72,
+        "policy_id":72,
+        "article_code":"KB-0072",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039752"
+    },
+    {
+        "article_id":73,
+        "policy_id":73,
+        "article_code":"KB-0073",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039767"
+    },
+    {
+        "article_id":74,
+        "policy_id":74,
+        "article_code":"KB-0074",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039784"
+    },
+    {
+        "article_id":75,
+        "policy_id":75,
+        "article_code":"KB-0075",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039798"
+    },
+    {
+        "article_id":76,
+        "policy_id":76,
+        "article_code":"KB-0076",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039812"
+    },
+    {
+        "article_id":77,
+        "policy_id":77,
+        "article_code":"KB-0077",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039826"
+    },
+    {
+        "article_id":78,
+        "policy_id":78,
+        "article_code":"KB-0078",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039840"
+    },
+    {
+        "article_id":79,
+        "policy_id":79,
+        "article_code":"KB-0079",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039854"
+    },
+    {
+        "article_id":80,
+        "policy_id":80,
+        "article_code":"KB-0080",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039869"
+    },
+    {
+        "article_id":81,
+        "policy_id":81,
+        "article_code":"KB-0081",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039883"
+    },
+    {
+        "article_id":82,
+        "policy_id":82,
+        "article_code":"KB-0082",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039897"
+    },
+    {
+        "article_id":83,
+        "policy_id":83,
+        "article_code":"KB-0083",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039915"
+    },
+    {
+        "article_id":84,
+        "policy_id":84,
+        "article_code":"KB-0084",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039929"
+    },
+    {
+        "article_id":85,
+        "policy_id":85,
+        "article_code":"KB-0085",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039942"
+    },
+    {
+        "article_id":86,
+        "policy_id":86,
+        "article_code":"KB-0086",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039956"
+    },
+    {
+        "article_id":87,
+        "policy_id":87,
+        "article_code":"KB-0087",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039970"
+    },
+    {
+        "article_id":88,
+        "policy_id":88,
+        "article_code":"KB-0088",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039983"
+    },
+    {
+        "article_id":89,
+        "policy_id":89,
+        "article_code":"KB-0089",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.039997"
+    },
+    {
+        "article_id":90,
+        "policy_id":90,
+        "article_code":"KB-0090",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040010"
+    },
+    {
+        "article_id":91,
+        "policy_id":91,
+        "article_code":"KB-0091",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040024"
+    },
+    {
+        "article_id":92,
+        "policy_id":92,
+        "article_code":"KB-0092",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040046"
+    },
+    {
+        "article_id":93,
+        "policy_id":93,
+        "article_code":"KB-0093",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040061"
+    },
+    {
+        "article_id":94,
+        "policy_id":94,
+        "article_code":"KB-0094",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040074"
+    },
+    {
+        "article_id":95,
+        "policy_id":95,
+        "article_code":"KB-0095",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040088"
+    },
+    {
+        "article_id":96,
+        "policy_id":96,
+        "article_code":"KB-0096",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040103"
+    },
+    {
+        "article_id":97,
+        "policy_id":97,
+        "article_code":"KB-0097",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040118"
+    },
+    {
+        "article_id":98,
+        "policy_id":98,
+        "article_code":"KB-0098",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040131"
+    },
+    {
+        "article_id":99,
+        "policy_id":99,
+        "article_code":"KB-0099",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040146"
+    },
+    {
+        "article_id":100,
+        "policy_id":100,
+        "article_code":"KB-0100",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040164"
+    },
+    {
+        "article_id":101,
+        "policy_id":101,
+        "article_code":"KB-0101",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040361"
+    },
+    {
+        "article_id":102,
+        "policy_id":102,
+        "article_code":"KB-0102",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040386"
+    },
+    {
+        "article_id":103,
+        "policy_id":103,
+        "article_code":"KB-0103",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040414"
+    },
+    {
+        "article_id":104,
+        "policy_id":104,
+        "article_code":"KB-0104",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040432"
+    },
+    {
+        "article_id":105,
+        "policy_id":105,
+        "article_code":"KB-0105",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040447"
+    },
+    {
+        "article_id":106,
+        "policy_id":106,
+        "article_code":"KB-0106",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040460"
+    },
+    {
+        "article_id":107,
+        "policy_id":107,
+        "article_code":"KB-0107",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040473"
+    },
+    {
+        "article_id":108,
+        "policy_id":108,
+        "article_code":"KB-0108",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040486"
+    },
+    {
+        "article_id":109,
+        "policy_id":109,
+        "article_code":"KB-0109",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040499"
+    },
+    {
+        "article_id":110,
+        "policy_id":110,
+        "article_code":"KB-0110",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040515"
+    },
+    {
+        "article_id":111,
+        "policy_id":111,
+        "article_code":"KB-0111",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040527"
+    },
+    {
+        "article_id":112,
+        "policy_id":112,
+        "article_code":"KB-0112",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040543"
+    },
+    {
+        "article_id":113,
+        "policy_id":113,
+        "article_code":"KB-0113",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040558"
+    },
+    {
+        "article_id":114,
+        "policy_id":114,
+        "article_code":"KB-0114",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040570"
+    },
+    {
+        "article_id":115,
+        "policy_id":115,
+        "article_code":"KB-0115",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040593"
+    },
+    {
+        "article_id":116,
+        "policy_id":116,
+        "article_code":"KB-0116",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040607"
+    },
+    {
+        "article_id":117,
+        "policy_id":117,
+        "article_code":"KB-0117",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040620"
+    },
+    {
+        "article_id":118,
+        "policy_id":118,
+        "article_code":"KB-0118",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040633"
+    },
+    {
+        "article_id":119,
+        "policy_id":119,
+        "article_code":"KB-0119",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040648"
+    },
+    {
+        "article_id":120,
+        "policy_id":120,
+        "article_code":"KB-0120",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040661"
+    },
+    {
+        "article_id":121,
+        "policy_id":121,
+        "article_code":"KB-0121",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040677"
+    },
+    {
+        "article_id":122,
+        "policy_id":122,
+        "article_code":"KB-0122",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040689"
+    },
+    {
+        "article_id":123,
+        "policy_id":123,
+        "article_code":"KB-0123",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040701"
+    },
+    {
+        "article_id":124,
+        "policy_id":124,
+        "article_code":"KB-0124",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040714"
+    },
+    {
+        "article_id":125,
+        "policy_id":125,
+        "article_code":"KB-0125",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040726"
+    },
+    {
+        "article_id":126,
+        "policy_id":126,
+        "article_code":"KB-0126",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040740"
+    },
+    {
+        "article_id":127,
+        "policy_id":127,
+        "article_code":"KB-0127",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040754"
+    },
+    {
+        "article_id":128,
+        "policy_id":128,
+        "article_code":"KB-0128",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040769"
+    },
+    {
+        "article_id":129,
+        "policy_id":129,
+        "article_code":"KB-0129",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040784"
+    },
+    {
+        "article_id":130,
+        "policy_id":130,
+        "article_code":"KB-0130",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040801"
+    },
+    {
+        "article_id":131,
+        "policy_id":131,
+        "article_code":"KB-0131",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040816"
+    },
+    {
+        "article_id":132,
+        "policy_id":132,
+        "article_code":"KB-0132",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040832"
+    },
+    {
+        "article_id":133,
+        "policy_id":133,
+        "article_code":"KB-0133",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040846"
+    },
+    {
+        "article_id":134,
+        "policy_id":134,
+        "article_code":"KB-0134",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040860"
+    },
+    {
+        "article_id":135,
+        "policy_id":135,
+        "article_code":"KB-0135",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040873"
+    },
+    {
+        "article_id":136,
+        "policy_id":136,
+        "article_code":"KB-0136",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040888"
+    },
+    {
+        "article_id":137,
+        "policy_id":137,
+        "article_code":"KB-0137",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040906"
+    },
+    {
+        "article_id":138,
+        "policy_id":138,
+        "article_code":"KB-0138",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040922"
+    },
+    {
+        "article_id":139,
+        "policy_id":139,
+        "article_code":"KB-0139",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040935"
+    },
+    {
+        "article_id":140,
+        "policy_id":140,
+        "article_code":"KB-0140",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040948"
+    },
+    {
+        "article_id":141,
+        "policy_id":141,
+        "article_code":"KB-0141",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040961"
+    },
+    {
+        "article_id":142,
+        "policy_id":142,
+        "article_code":"KB-0142",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040974"
+    },
+    {
+        "article_id":143,
+        "policy_id":143,
+        "article_code":"KB-0143",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.040987"
+    },
+    {
+        "article_id":144,
+        "policy_id":144,
+        "article_code":"KB-0144",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041001"
+    },
+    {
+        "article_id":145,
+        "policy_id":145,
+        "article_code":"KB-0145",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041017"
+    },
+    {
+        "article_id":146,
+        "policy_id":146,
+        "article_code":"KB-0146",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041038"
+    },
+    {
+        "article_id":147,
+        "policy_id":147,
+        "article_code":"KB-0147",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041061"
+    },
+    {
+        "article_id":148,
+        "policy_id":148,
+        "article_code":"KB-0148",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041077"
+    },
+    {
+        "article_id":149,
+        "policy_id":149,
+        "article_code":"KB-0149",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041092"
+    },
+    {
+        "article_id":150,
+        "policy_id":150,
+        "article_code":"KB-0150",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041106"
+    },
+    {
+        "article_id":151,
+        "policy_id":151,
+        "article_code":"KB-0151",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041120"
+    },
+    {
+        "article_id":152,
+        "policy_id":152,
+        "article_code":"KB-0152",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041134"
+    },
+    {
+        "article_id":153,
+        "policy_id":153,
+        "article_code":"KB-0153",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041149"
+    },
+    {
+        "article_id":154,
+        "policy_id":154,
+        "article_code":"KB-0154",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041163"
+    },
+    {
+        "article_id":155,
+        "policy_id":155,
+        "article_code":"KB-0155",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041181"
+    },
+    {
+        "article_id":156,
+        "policy_id":156,
+        "article_code":"KB-0156",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041193"
+    },
+    {
+        "article_id":157,
+        "policy_id":157,
+        "article_code":"KB-0157",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041208"
+    },
+    {
+        "article_id":158,
+        "policy_id":158,
+        "article_code":"KB-0158",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041222"
+    },
+    {
+        "article_id":159,
+        "policy_id":159,
+        "article_code":"KB-0159",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041237"
+    },
+    {
+        "article_id":160,
+        "policy_id":160,
+        "article_code":"KB-0160",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041249"
+    },
+    {
+        "article_id":161,
+        "policy_id":161,
+        "article_code":"KB-0161",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041264"
+    },
+    {
+        "article_id":162,
+        "policy_id":162,
+        "article_code":"KB-0162",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041277"
+    },
+    {
+        "article_id":163,
+        "policy_id":163,
+        "article_code":"KB-0163",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041290"
+    },
+    {
+        "article_id":164,
+        "policy_id":164,
+        "article_code":"KB-0164",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041307"
+    },
+    {
+        "article_id":165,
+        "policy_id":165,
+        "article_code":"KB-0165",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041324"
+    },
+    {
+        "article_id":166,
+        "policy_id":166,
+        "article_code":"KB-0166",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041338"
+    },
+    {
+        "article_id":167,
+        "policy_id":167,
+        "article_code":"KB-0167",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041355"
+    },
+    {
+        "article_id":168,
+        "policy_id":168,
+        "article_code":"KB-0168",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041368"
+    },
+    {
+        "article_id":169,
+        "policy_id":169,
+        "article_code":"KB-0169",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041381"
+    },
+    {
+        "article_id":170,
+        "policy_id":170,
+        "article_code":"KB-0170",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041393"
+    },
+    {
+        "article_id":171,
+        "policy_id":171,
+        "article_code":"KB-0171",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041407"
+    },
+    {
+        "article_id":172,
+        "policy_id":172,
+        "article_code":"KB-0172",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041420"
+    },
+    {
+        "article_id":173,
+        "policy_id":173,
+        "article_code":"KB-0173",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041436"
+    },
+    {
+        "article_id":174,
+        "policy_id":174,
+        "article_code":"KB-0174",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041450"
+    },
+    {
+        "article_id":175,
+        "policy_id":175,
+        "article_code":"KB-0175",
+        "title":"Student Guide: Course Registration",
+        "content":"Overview: Course registration rules and deadlines. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041463"
+    },
+    {
+        "article_id":176,
+        "policy_id":176,
+        "article_code":"KB-0176",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041478"
+    },
+    {
+        "article_id":177,
+        "policy_id":177,
+        "article_code":"KB-0177",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041491"
+    },
+    {
+        "article_id":178,
+        "policy_id":178,
+        "article_code":"KB-0178",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041505"
+    },
+    {
+        "article_id":179,
+        "policy_id":179,
+        "article_code":"KB-0179",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041520"
+    },
+    {
+        "article_id":180,
+        "policy_id":180,
+        "article_code":"KB-0180",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041533"
+    },
+    {
+        "article_id":181,
+        "policy_id":181,
+        "article_code":"KB-0181",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041545"
+    },
+    {
+        "article_id":182,
+        "policy_id":182,
+        "article_code":"KB-0182",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041563"
+    },
+    {
+        "article_id":183,
+        "policy_id":183,
+        "article_code":"KB-0183",
+        "title":"Student Guide: Academic Records",
+        "content":"Overview: Rules for transcripts and academic records. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041577"
+    },
+    {
+        "article_id":184,
+        "policy_id":184,
+        "article_code":"KB-0184",
+        "title":"Student Guide: Fee Payment",
+        "content":"Overview: Tuition fees, payment schedules and late payment rules. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041590"
+    },
+    {
+        "article_id":185,
+        "policy_id":185,
+        "article_code":"KB-0185",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041602"
+    },
+    {
+        "article_id":186,
+        "policy_id":186,
+        "article_code":"KB-0186",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041615"
+    },
+    {
+        "article_id":187,
+        "policy_id":187,
+        "article_code":"KB-0187",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041629"
+    },
+    {
+        "article_id":188,
+        "policy_id":188,
+        "article_code":"KB-0188",
+        "title":"Student Guide: Technical Support",
+        "content":"Overview: Student portal and technical support procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041643"
+    },
+    {
+        "article_id":189,
+        "policy_id":189,
+        "article_code":"KB-0189",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041659"
+    },
+    {
+        "article_id":190,
+        "policy_id":190,
+        "article_code":"KB-0190",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041672"
+    },
+    {
+        "article_id":191,
+        "policy_id":191,
+        "article_code":"KB-0191",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041688"
+    },
+    {
+        "article_id":192,
+        "policy_id":192,
+        "article_code":"KB-0192",
+        "title":"Student Guide: Financial Aid",
+        "content":"Overview: Scholarship eligibility and financial assistance procedures. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041702"
+    },
+    {
+        "article_id":193,
+        "policy_id":193,
+        "article_code":"KB-0193",
+        "title":"Student Guide: Student Attendance",
+        "content":"Overview: Attendance requirements and attendance exemptions. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041716"
+    },
+    {
+        "article_id":194,
+        "policy_id":194,
+        "article_code":"KB-0194",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041730"
+    },
+    {
+        "article_id":195,
+        "policy_id":195,
+        "article_code":"KB-0195",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.041825"
+    },
+    {
+        "article_id":196,
+        "policy_id":196,
+        "article_code":"KB-0196",
+        "title":"Student Guide: Grading Policy",
+        "content":"Overview: Grading methods and academic performance requirements. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.042013"
+    },
+    {
+        "article_id":197,
+        "policy_id":197,
+        "article_code":"KB-0197",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.042040"
+    },
+    {
+        "article_id":198,
+        "policy_id":198,
+        "article_code":"KB-0198",
+        "title":"Student Guide: Student Conduct",
+        "content":"Overview: Student responsibilities and conduct expectations. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.042060"
+    },
+    {
+        "article_id":199,
+        "policy_id":199,
+        "article_code":"KB-0199",
+        "title":"Student Guide: Examination Guidelines",
+        "content":"Overview: Examination procedures and student responsibilities. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.042086"
+    },
+    {
+        "article_id":200,
+        "policy_id":200,
+        "article_code":"KB-0200",
+        "title":"Student Guide: Admissions Eligibility",
+        "content":"Overview: Admission requirements and eligibility criteria. Students should review the applicable requirements and contact the relevant academic support team if they need clarification. Steps: Review the requirements, prepare the necessary information, and submit your request to the appropriate support team. Contact academic support if further assistance is required.",
+        "version":1,
+        "created_at":"2026-10-31T12:42:21.042157"
+    }
+]

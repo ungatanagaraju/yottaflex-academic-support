@@ -1,0 +1,38 @@
+[
+    {
+        "category_id":1,
+        "category_name":"Admissions",
+        "description":"Admission-related questions",
+        "assigned_team":"Admissions Team"
+    },
+    {
+        "category_id":2,
+        "category_name":"Financial Aid",
+        "description":"Scholarship and fee questions",
+        "assigned_team":"Finance Team"
+    },
+    {
+        "category_id":3,
+        "category_name":"Registration",
+        "description":"Course registration issues",
+        "assigned_team":"Academic Team"
+    },
+    {
+        "category_id":4,
+        "category_name":"Technical Support",
+        "description":"Technical problems",
+        "assigned_team":"IT Team"
+    },
+    {
+        "category_id":5,
+        "category_name":"Examinations",
+        "description":"Exam-related questions",
+        "assigned_team":"Exam Team"
+    },
+    {
+        "category_id":6,
+        "category_name":"Academic Records",
+        "description":"Academic records requests",
+        "assigned_team":"Records Team"
+    }
+]

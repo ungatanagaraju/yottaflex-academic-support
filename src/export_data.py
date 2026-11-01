@@ -19,6 +19,7 @@ TABLES = [
     "Message",
     "PolicyDocument",
     "KnowledgeArticle",
+    "ResolutionFeedback",
 ]
 
 
